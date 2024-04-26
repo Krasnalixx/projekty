@@ -1,0 +1,46 @@
+﻿  Algorytm Sobla.cpp
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(66,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(69,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(71,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(73,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(110,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(144,21): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(160,21): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(188,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(190,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(195,21): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(218,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(220,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(282,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(284,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(330,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(332,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(344,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(346,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(358,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(360,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(372,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(374,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(392,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(394,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(408,9): warning C4804: "%": niebezpieczne użycie typu "bool" w operacji
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(459,32): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(461,42): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(534,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(545,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(553,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(574,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(581,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(586,17): warning C4244: "inicjowanie": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(602,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(605,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(608,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(610,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(616,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(618,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(637,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(639,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(644,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(481): warning C4715: "niestandardowamaska”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\pprze\Desktop\Algorytm Sobla\Algorytm Sobla\Algorytm Sobla.cpp(402): warning C4715: "roznemaski”: niewszystkie ścieżki kodu zwracają wartość
+  Algorytm Sobla.vcxproj -> C:\Users\pprze\Desktop\Algorytm Sobla\x64\Debug\Algorytm Sobla.exe
