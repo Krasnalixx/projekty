@@ -3,8 +3,8 @@ from PyQt5.QtWidgets import QApplication, QGraphicsView, QGraphicsScene, QGraphi
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QPushButton, QLabel, QMessageBox
 from PyQt5.QtGui import QBrush, QColor, QPixmap
 from PyQt5.QtCore import Qt, QRectF, QPointF, QTimer, QTime
-import zasoby_rc
-from figury import Rook, Bishop, Knight, Pawn, Queen, King, GameOptionsDialog, PromotionDialog, Move2
+import resources_rc
+from figures import Rook, Bishop, Knight, Pawn, Queen, King, GameOptionsDialog, PromotionDialog, Move2
 
 def globalExceptionHandler(exc_type, exc_value, exc_traceback):
     # Logowanie lub drukowanie informacji o wyjątku
