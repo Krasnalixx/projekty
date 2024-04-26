@@ -1,39 +1,59 @@
-# Chess Game
 
-Welcome to my Chess Game, a fully interactive digital chess experience built with PyQt5. This project consists of three main modules that handle everything from the graphical user interface to the game mechanics.
+# Analizator Zmian Obrazu
 
-## Modules
+## Opis projektu
 
-1. **main.py**: This is the core file of the game, where the main application is run. It includes the rules of the game and sets up the graphical user interface (GUI). It utilizes PyQt5 to manage game windows, dialogs, and other GUI components.
+Projekt `Analizator Zmian Obrazu` to narzędzie do analizy i identyfikacji różnic między dwoma obrazami, które są wizualnie podobne, ale mogą różnić się szczegółami takimi jak rozmiar, położenie czy orientacja obiektów. Projekt wykorzystuje Pythona oraz biblioteki OpenCV i matplotlib do przetwarzania obrazów i wizualizacji wyników.
 
-2. **figury.py**: This file contains the definitions of the chess pieces and classes related to piece promotion and reviewing past moves. It plays a crucial role in defining the behavior of each piece on the chessboard.
+## Funkcjonalności
 
-3. **zasoby_rc.py**: This module handles the graphical resources, storing representations of the chess pieces used in the game's GUI.
+- Wczytywanie dwóch obrazów (oryginału i zmodyfikowanej wersji).
+- Rozdzielenie obrazów na kanały kolorów.
+- Detekcja i wizualizacja zmian na obrazach.
+- Zaznaczanie obszarów, które różnią się między obrazami.
+- Eksport wyników analizy do pliku PNG z przezroczystością tych miejsc, które uległy zmianie.
 
-## Dependencies
+## Wymagania
 
-To run this game, you will need Python and PyQt5. Here's how you can install PyQt5 if you haven't done so yet:
+- Python 3.6+
+- OpenCV
+- NumPy
+- Matplotlib
+
+## Instalacja bibliotek
+
+Biblioteki można zainstalować za pomocą poniższego polecenia:
 
 ```bash
-pip install PyQt5
+pip install numpy opencv-python matplotlib
 ```
-## Running the game
 
-To start the game, navigate to the directory containing the game's files and run the following command:
-python main.py
+## Struktura projektu
 
+```plaintext
+Analizator_Zmian_Obrazu/
+|- dublin.jpg           # Oryginalny obraz
+|- dublin_edited.jpg    # Edytowany obraz
+|- analizator.py        # Skrypt główny
+|- README.md            # Ten plik
+```
 
-## Gameplay
+## Uruchomienie projektu
 
-The game follows standard chess rules. You can move pieces by clicking on them and then clicking on the destination square. Special game options like piece promotion are handled via dialog boxes that appear when necessary.
+Aby uruchomić projekt, wykonaj skrypt `kevin.py` w terminalu lub środowisku programistycznym:
 
-## Contributions
+```bash
+python kevin.py
+```
 
-Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
+## Przykładowe wyniki
 
-## License
+Wyniki działania programu zostaną zapisane w pliku `kevin.png`, który zawiera wykryte różnice z zaznaczeniem na przezroczystym tle.
 
-This project is open-source and available under the MIT License.
+## Autor
 
-Enjoy playing chess with our PyQt5 Chess Game!
+[Tutaj wpisz swoje imię i nazwisko lub pseudonim]
 
+## Licencja
+
+Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdziesz w pliku `LICENSE`.

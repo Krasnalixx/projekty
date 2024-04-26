@@ -11,7 +11,7 @@ szerokosc = obraz1.shape[1]
 
 def wyswietl(red2,green2,blue2):
     plt.subplot(121), plt.imshow(cv2.cvtColor(obraz2, cv2.COLOR_BGR2RGB)), plt.title('Oryginalny Obraz')
-    plt.subplot(122), plt.imshow(cv2.merge([red.astype(np.uint8), green.astype(np.uint8), blue.astype(np.uint8)])), plt.title('Zmieniony Obraz')
+    plt.subplot(122), plt.imshow(cv2.merge([red2.astype(np.uint8), green2.astype(np.uint8), blue2.astype(np.uint8)])), plt.title('Zmieniony Obraz')
     plt.show()
 
 
