@@ -1280,3 +1280,5 @@ void ruchdoprzodu(int& zajete, char planszaDOPISANIA[rozmiar * rozmiar * 4], int
 	zajete++;
 	wyliczaniewypisan();
 }
+
+
