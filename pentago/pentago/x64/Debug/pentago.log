@@ -1,7 +1,7 @@
 ﻿  pentago.cpp
-C:\Users\pprze\Desktop\pentago\pentago\pentago.cpp(246,18): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\pprze\Desktop\pentago\pentago\pentago.cpp(338,18): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\pprze\Desktop\pentago\pentago\pentago.cpp(361,18): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\pprze\Desktop\pentago\pentago\pentago.cpp(1176,19): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\pprze\Desktop\pentago\pentago\pentago.cpp(609): warning C4715: "sprawdzdopisanie”: niewszystkie ścieżki kodu zwracają wartość
-  pentago.vcxproj -> C:\Users\pprze\Desktop\pentago\x64\Debug\pentago.exe
+C:\Users\pprze\Desktop\projekty\pentago\pentago\pentago.cpp(246,18): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\projekty\pentago\pentago\pentago.cpp(338,18): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\projekty\pentago\pentago\pentago.cpp(361,18): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\projekty\pentago\pentago\pentago.cpp(1176,19): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\pprze\Desktop\projekty\pentago\pentago\pentago.cpp(609,1): warning C4715: "sprawdzdopisanie”: niewszystkie ścieżki kodu zwracają wartość
+  pentago.vcxproj -> C:\Users\pprze\Desktop\projekty\pentago\x64\Debug\pentago.exe

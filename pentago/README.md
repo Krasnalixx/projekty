@@ -1,39 +1,41 @@
-# Chess Game
 
-Welcome to my Chess Game, a fully interactive digital chess experience built with PyQt5. This project consists of three main modules that handle everything from the graphical user interface to the game mechanics.
+### Instrukcja do Gry Pentago
 
-## Modules
+**Pentago** to strategiczna gra planszowa dla dwóch graczy, której celem jest ułożenie pięciu swoich znaków w rzędzie. Gra wykorzystuje obrotowe sektory planszy, co dodaje dodatkową warstwę taktycznego planowania.
 
-1. **main.py**: This is the core file of the game, where the main application is run. It includes the rules of the game and sets up the graphical user interface (GUI). It utilizes PyQt5 to manage game windows, dialogs, and other GUI components.
+#### Wymagania Systemowe
+- System operacyjny: Windows, Linux lub MacOS
+- Kompilator: Zgodny z C++, np. GCC, Clang, MSVC
 
-2. **figury.py**: This file contains the definitions of the chess pieces and classes related to piece promotion and reviewing past moves. It plays a crucial role in defining the behavior of each piece on the chessboard.
-
-3. **zasoby_rc.py**: This module handles the graphical resources, storing representations of the chess pieces used in the game's GUI.
-
-## Dependencies
-
-To run this game, you will need Python and PyQt5. Here's how you can install PyQt5 if you haven't done so yet:
-
-```bash
-pip install PyQt5
+#### Kompilacja i Uruchomienie
+Aby skompilować grę, potrzebny jest kompilator obsługujący standard C++11 lub nowszy. Przykładowe polecenie kompilacji dla GCC:
 ```
-## Running the game
+g++ -std=c++11 -o pentago main.cpp
+```
+Aby uruchomić grę, wystarczy wykonać skompilowany plik:
+```
+./pentago
+```
 
-To start the game, navigate to the directory containing the game's files and run the following command:
-python main.py
+#### Zasady Gry
+1. Plansza składa się z czterech kwadrantów, każdy zawiera 3x3 pola.
+2. Gracze na przemian umieszczają swoje znaki ('o' lub 'x') na dowolnym wolnym polu.
+3. Po wykonaniu ruchu (dodaniu znaku), gracz musi wybrać jeden z kwadrantów i obrócić go o 90 stopni w lewo lub w prawo.
+4. Wygrywa gracz, który jako pierwszy ułoży pięć swoich znaków w rzędzie (pionowo, poziomo lub na skos) na całej planszy.
 
+#### Opcje Dodatkowe
+- **Zmiana znaku**: Gracze mogą zmieniać znak, którym grają w trakcie gry.
+- **Cofanie ruchu (Undo)**: Możliwość cofnięcia ruchu do poprzedniego stanu.
+- **Pauza**: Gracze mogą zatrzymać grę na czas nieokreślony.
+- **Predefiniowana plansza**: Możliwość wczytania predefiniowanej konfiguracji planszy.
 
-## Gameplay
+#### Interakcja z Graczem
+Gra komunikuje się z użytkownikiem poprzez konsolę, gdzie gracze wprowadzają swoje ruchy oraz wybierają opcje. Tekst jest jasny i prosty, co ułatwia zrozumienie bieżącego stanu gry.
+#### Autor
 
-The game follows standard chess rules. You can move pieces by clicking on them and then clicking on the destination square. Special game options like piece promotion are handled via dialog boxes that appear when necessary.
+Przemysław Piątkiewiczc
 
-## Contributions
+#### Licencja
 
-Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-
-This project is open-source and available under the MIT License.
-
-Enjoy playing chess with our PyQt5 Chess Game!
-
+Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdziesz w pliku `LICENSE`.
+---
