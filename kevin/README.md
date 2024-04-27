@@ -52,7 +52,7 @@ Wyniki działania programu zostaną zapisane w pliku `kevin.png`, który zawiera
 
 ## Autor
 
-[Tutaj wpisz swoje imię i nazwisko lub pseudonim]
+Przemysław Piątkiewiczc
 
 ## Licencja
 
