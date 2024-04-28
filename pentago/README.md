@@ -38,4 +38,3 @@ Przemysław Piątkiewicz
 #### Licencja
 
 Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdziesz w pliku `LICENSE`.
----
