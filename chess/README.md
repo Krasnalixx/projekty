@@ -35,5 +35,3 @@ Contributions to this project are welcome. Please feel free to fork the reposito
 
 This project is open-source and available under the MIT License.
 
-Enjoy playing chess with our PyQt5 Chess Game!
-
