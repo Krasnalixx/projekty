@@ -33,7 +33,7 @@ Aby uruchomić grę, wystarczy wykonać skompilowany plik:
 Gra komunikuje się z użytkownikiem poprzez konsolę, gdzie gracze wprowadzają swoje ruchy oraz wybierają opcje. Tekst jest jasny i prosty, co ułatwia zrozumienie bieżącego stanu gry.
 #### Autor
 
-Przemysław Piątkiewiczc
+Przemysław Piątkiewicz
 
 #### Licencja
 
