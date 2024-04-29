@@ -14,25 +14,23 @@ Welcome to my Chess Game, a fully interactive digital chess experience built wit
 
 To run this game, you will need Python and PyQt5. Here's how you can install PyQt5 if you haven't done so yet:
 
-```bash
+\```bash
 pip install PyQt5
-```
-## Running the game
+\```
+
+## Running the Game
 
 To start the game, navigate to the directory containing the game's files and run the following command:
-``` bash
+
+\```bash
 python main.py
-```
+\```
 
-
-## Gameplay
-
-The game adheres to standard chess rules, allowing players to move pieces by clicking and dragging them to different squares. It features various interactive elements that enhance the player's experience:
-
+## Game Features
 
 - **Standard Game View**: The traditional game view presents a clear and intuitive interface, allowing players to focus on the game without unnecessary distractions. Below is the standard view of the game interface.
   ![Game view](images/view.png)
-  
+
 - **Background and Piece Customization**: Players can personalize their game by changing the background color and the set of figures to suit their preferences, providing a fresh visual experience. The interface below demonstrates a customized look with a new set of pieces and background color.
   ![Customized Game View](images/view2.png)
 
@@ -42,10 +40,11 @@ The game adheres to standard chess rules, allowing players to move pieces by cli
 - **Move Assistance**: To help players consider their options, the game visually highlights potential moves for the selected piece. This feature aids new players in understanding possible moves and strategizing accordingly.
   ![Highlighted Moves](images/highlight.png)
 
+## Game Analysis
+
 - **Game Review**: After completing a game, players have the opportunity to reflect on and analyze their gameplay. This can be accomplished by navigating through each move made during the game using the 'Next move' and 'Previous move' buttons. This functionality provides a platform for detailed post-game analysis, enabling players to learn from their games.
 
 - **Move List**: Throughout the game, all moves are recorded and displayed in a dedicated section of the interface. This feature serves as a move history log, allowing players to keep track of the game's progress, review the actions taken, and refine their strategies for future games.
-
 
 ## Author
 
@@ -54,4 +53,3 @@ Piątkiewicz Przemysław
 ## License
 
 This project is open-source and available under the MIT License.
-
