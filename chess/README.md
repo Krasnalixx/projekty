@@ -20,8 +20,9 @@ pip install PyQt5
 ## Running the game
 
 To start the game, navigate to the directory containing the game's files and run the following command:
+``` bash
 python main.py
-
+```
 
 ## Gameplay
 
