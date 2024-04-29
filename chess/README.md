@@ -42,6 +42,11 @@ The game adheres to standard chess rules, allowing players to move pieces by cli
 - **Move Assistance**: To help players consider their options, the game visually highlights potential moves for the selected piece. This feature aids new players in understanding possible moves and strategizing accordingly.
   ![Highlighted Moves](images/highlight.png)
 
+  - **Game Review**: After completing a game, players have the opportunity to reflect on and analyze their gameplay. This can be accomplished by navigating through each move made during the game using the 'Next move' and 'Previous move' buttons. This functionality provides a platform for detailed post-game analysis, enabling players to learn from their games.
+
+- **Move List**: Throughout the game, all moves are recorded and displayed in a dedicated section of the interface. This feature serves as a move history log, allowing players to keep track of the game's progress, review the actions taken, and refine their strategies for future games.
+
+
 ## Author
 
 Piątkiewicz Przemysław
