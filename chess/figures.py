@@ -197,20 +197,21 @@ class King(ChessPiece):
 class GameOptionsDialog(QDialog):
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setWindowTitle("Wybierz wariant gry")
+        self.setWindowTitle("Choose Game Variant")
         self.layout = QVBoxLayout(self)
 
-        # Wybór czasu gry
+        # Game time selection
         self.combo = QComboBox(self)
-        self.combo.addItem("Bullet - 1 minut", userData={"minutes": 1, "increment": 0})
-        self.combo.addItem("Blitz - 5 minut", userData={"minutes": 5, "increment": 0})
-        self.combo.addItem("Rapid - 10 minut", userData={"minutes": 10, "increment": 0})
-        self.combo.addItem("Increment - 3 minuty  + 3 sekundy", userData={"minutes": 3, "increment": 3})
+        self.combo.addItem("Bullet - 1 minute", userData={"minutes": 1, "increment": 0})
+        self.combo.addItem("Blitz - 5 minutes", userData={"minutes": 5, "increment": 0})
+        self.combo.addItem("Rapid - 10 minutes", userData={"minutes": 10, "increment": 0})
+        self.combo.addItem("Increment - 3 minutes + 3 seconds", userData={"minutes": 3, "increment": 3})
         self.layout.addWidget(self.combo)
 
         self.startButton = QPushButton("Start", self)
         self.startButton.clicked.connect(self.accept)
         self.layout.addWidget(self.startButton)
+
     def selectedOption(self):
         # Zwraca opcje gry oraz adres IP i port jako słownik
         return {

@@ -325,13 +325,13 @@ class ChessBoard(QWidget):
         self.view.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
 
         # Tworzenie przycisku do zmiany zestawu figur
-        self.changeSetButton = QPushButton("Zmień zestaw figur")
+        self.changeSetButton = QPushButton("Change the set of figures")
         self.changeSetButton.clicked.connect(self.changePieceSet)
 
         # Tworzenie przycisków do zmiany kolorów szachownicy
-        self.changeColor1Button = QPushButton("Zmień kolor 1")
-        self.changeColor2Button = QPushButton("Zmień kolor 2")
-        self.movesLabel = QTextEdit("Ruchy: ")
+        self.changeColor1Button = QPushButton("Change color 1")
+        self.changeColor2Button = QPushButton("Change color 2")
+        self.movesLabel = QTextEdit("Moves: ")
         # Połącz przyciski ze slotami reakcji
         self.changeColor1Button.clicked.connect(self.changeColor1)
         self.changeColor2Button.clicked.connect(self.changeColor2)
@@ -343,8 +343,8 @@ class ChessBoard(QWidget):
 
         self.initChessClock(gameOption)
 
-        self.prevMoveButton = QPushButton("Poprzedni ruch")
-        self.nextMoveButton = QPushButton("Następny ruch")
+        self.prevMoveButton = QPushButton("Previous move")
+        self.nextMoveButton = QPushButton("Next move")
 
         # Dodaj przyciski do layoutu
         self.buttonsLayout.addWidget(self.prevMoveButton)
@@ -450,23 +450,24 @@ class ChessBoard(QWidget):
     def showTimeOutMessage(self, player):
         msg = QMessageBox()
         msg.setIcon(QMessageBox.Warning)
-        msg.setText("Koniec czasu!")
-        msg.setInformativeText(f"Czas skończył się dla gracza {player}.")
-        msg.setWindowTitle("Czas się skończył")
+        msg.setText("Time's up!")
+        msg.setInformativeText(f"Time has run out for player {player}.")
+        msg.setWindowTitle("Time Out")
         msg.setStandardButtons(QMessageBox.Ok)
         msg.setDefaultButton(QMessageBox.Ok)
         msg.exec_()
 
-    def showMateMessege(self):
+    def showMateMessage(self):
         msg = QMessageBox()
         msg.setIcon(QMessageBox.Warning)
-        msg.setText("Mat!")
-        player = "Biały" if self.currentTurn == "C" else "Czarny"
-        msg.setInformativeText(f"Wygrywa gracz {player}.")
-        msg.setWindowTitle("Koniec gry")
+        msg.setText("Checkmate!")
+        player = "White" if self.currentTurn == "C" else "Black"
+        msg.setInformativeText(f"Player {player} wins.")
+        msg.setWindowTitle("Game Over")
         msg.setStandardButtons(QMessageBox.Ok)
         msg.setDefaultButton(QMessageBox.Ok)
         msg.exec_()
+
 
     def updateMove(self, startNotation, endNotation):
         super().updateMove(startNotation, endNotation)  # Wywołaj oryginalną metodę z klasy bazowej
