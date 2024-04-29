@@ -27,7 +27,20 @@ python main.py
 
 ## Gameplay
 
-The game follows standard chess rules. You can move pieces by clicking on them and then dragging them on different squares. Special game options like piece promotion are handled via dialog boxes that appear when necessary.
+The game adheres to standard chess rules, allowing players to move pieces by clicking and dragging them to different squares. It features various interactive elements that enhance the player's experience:
+
+
+- **Standard Game View**: The traditional game view presents a clear and intuitive interface, allowing players to focus on the game without unnecessary distractions. Below is the standard view of the game interface.
+  ![Game view](images/view.png)
+  
+- **Background and Piece Customization**: Players can personalize their game by changing the background color and the set of figures to suit their preferences, providing a fresh visual experience. The interface below demonstrates a customized look with a new set of pieces and background color.
+  ![Customized Game View](images/view2.png)
+
+- **Game Options**: Before starting a match, players can choose their desired game settings, such as the time control. These include fast-paced Bullet and Blitz formats, traditional Rapid, or Increment time modes to accommodate different styles of play.
+  ![Game Options](images/game_options.png)
+
+- **Move Assistance**: To help players consider their options, the game visually highlights potential moves for the selected piece. This feature aids new players in understanding possible moves and strategizing accordingly.
+  ![Highlighted Moves](images/highlight.png)
 
 ## Author
 
