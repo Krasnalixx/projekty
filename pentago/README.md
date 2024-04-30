@@ -39,6 +39,7 @@ Gra komunikuje się z użytkownikiem poprzez konsolę, gdzie gracze wprowadzają
 
 ## Przeglądanie partii po zakończeniu gry
 ![Analiza gry](images/analiza.png)
+
 Po zakończeniu rozgrywki w Pentago, gracze mają możliwość przeglądania wykonanych ruchów. Ta funkcja pozwala analizować przebieg gry krok po kroku, co jest szczególnie przydatne dla nauki i poprawy swoich strategii. Dzięki tej opcji można dokładnie zobaczyć, jakie ruchy prowadziły do zwycięstwa lub porażki, co umożliwia lepsze zrozumienie i przyswojenie taktyk gry.
 
 Zaimplementowany system przeglądania partii jest intuicyjny w obsłudze – po zakończeniu gry wystarczy skorzystać z odpowiednich komend konsoli, aby przeglądać ruchy w przód i w tył. Każdy ruch może być szczegółowo analizowany, co pozwala na głębokie zrozumienie i refleksję nad własnymi decyzjami oraz strategią przeciwnika.
