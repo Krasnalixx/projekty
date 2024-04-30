@@ -14,17 +14,17 @@ Welcome to my Chess Game, a fully interactive digital chess experience built wit
 
 To run this game, you will need Python and PyQt5. Here's how you can install PyQt5 if you haven't done so yet:
 
-\```bash
+```bash
 pip install PyQt5
-\```
+```
 
 ## Running the Game
 
 To start the game, navigate to the directory containing the game's files and run the following command:
 
-\```bash
+```bash
 python main.py
-\```
+```
 
 ## Game Features
 
