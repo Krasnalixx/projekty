@@ -34,7 +34,7 @@ pip install numpy opencv-python matplotlib
 Analizator_Zmian_Obrazu/
 |- dublin.jpg           # Oryginalny obraz
 |- dublin_edited.jpg    # Edytowany obraz
-|- analizator.py        # Skrypt główny
+|- kevin.py        # Skrypt główny
 |- README.md            # Ten plik
 ```
 
@@ -52,7 +52,7 @@ Wyniki działania programu zostaną zapisane w pliku `kevin.png`, który zawiera
 
 ## Autor
 
-Przemysław Piątkiewiczc
+Przemysław Piątkiewicz
 
 ## Licencja
 
