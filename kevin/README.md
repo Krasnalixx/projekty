@@ -54,13 +54,13 @@ Wyniki działania programu zostaną zapisane w pliku `kevin.png`, który zawiera
 Oto obrazy użyte w projekcie i efekt działania programu:
 
 - **Oryginalny obraz**: 
-  ![Oryginalny obraz](images/dublin.jpg)
+  ![Oryginalny obraz](dublin.jpg)
 
 - **Edytowany obraz**:
-  ![Edytowany obraz](images/dublin_edited.jpg)
+  ![Edytowany obraz](dublin_edited.jpg)
 
 - **Wykryte różnice**:
-  ![Wykryte różnice](images/kevin.png)
+  ![Wykryte różnice](kevin.png)
 
 ## Autor
 
