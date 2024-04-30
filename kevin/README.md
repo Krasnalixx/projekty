@@ -49,6 +49,18 @@ python kevin.py
 ## Przykładowe wyniki
 
 Wyniki działania programu zostaną zapisane w pliku `kevin.png`, który zawiera wykryte różnice z zaznaczeniem na przezroczystym tle.
+## Obrazy
+
+Oto obrazy użyte w projekcie i efekt działania programu:
+
+- **Oryginalny obraz**: 
+  ![Oryginalny obraz](images/dublin.jpg)
+
+- **Edytowany obraz**:
+  ![Edytowany obraz](images/dublin_edited.jpg)
+
+- **Wykryte różnice**:
+  ![Wykryte różnice](images/kevin.png)
 
 ## Autor
 
