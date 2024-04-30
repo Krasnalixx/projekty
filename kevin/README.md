@@ -60,7 +60,7 @@ Oto obrazy użyte w projekcie i efekt działania programu:
   ![Edytowany obraz](dublin_edited.jpg)
 
 - **Wykryte różnice**:
-- 
+ 
   ![Wykryte różnice](kevin.png)
 
 ## Autor
