@@ -1,28 +1,30 @@
-# Projekty Portfolio
+# Przemysław Piątkiewicz - Projekty Programistyczne
 
 Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera różnorodne projekty demonstrujące moje umiejętności i zainteresowania w dziedzinie programowania, wizji komputerowej oraz projektowania gier.
 
 ## Przegląd Projektów
 
 ### Pentago
-- **Opis**: Cyfrowa wersja gry planszowej Pentago dla dwóch osób, zaprojektowana tak, aby zapewnić interaktywne doświadczenie z elementem gry AI.
+- **Opis**: Cyfrowa wersja gry planszowej Pentago dla dwóch osób, zaprojektowana jako gra konsolowa, która pozwala na interakcje bezpośrednio w terminalu.
 - **Użyte Technologie**: C++
-- **Kluczowe Funkcje**: Interaktywny interfejs użytkownika, przeciwnicy sterowani przez AI.
+- **Kluczowe Funkcje**: Prosty interfejs konsolowy, rozgrywka dla dwóch graczy.
 
 ### Kevin
-- **Opis**: Aplikacja przeznaczona do przetwarzania dźwięku i manipulacji dźwiękiem w czasie rzeczywistym, nazwana Kevin.
-- **Użyte Technologie**: C++, Qt
-- **Kluczowe Funkcje**: Efekty dźwiękowe w czasie rzeczywistym, nagrywanie, odtwarzanie.
+- **Opis**: Projekt `Analizator Zmian Obrazu`, znanym także jako Kevin, to narzędzie do analizy i identyfikacji różnic między dwoma obrazami. 
+- **Użyte Technologie**: Python, OpenCV, NumPy, Matplotlib
+- **Kluczowe Funkcje**: Wczytywanie obrazów, analiza różnic, eksport wyników do pliku PNG z przezroczystymi obszarami zmian.
 
-### CUDA Template Matching Chess
-- **Opis**: Wykorzystuje techniki CUDA i dopasowywania szablonów do rozpoznawania figur szachowych na planszy na podstawie obrazów.
+
+### Wykrywanie Obiektów i Ich Segmentacja
+- **Opis**: Program wykorzystujący technologię CUDA do wykrywania i segmentacji obiektów na obrazach, umożliwiający identyfikację i oznaczanie różnych obiektów, takich jak litery, symbole czy loga, przy użyciu bounding boxów.
 - **Użyte Technologie**: C++, CUDA
-- **Kluczowe Funkcje**: Obliczenia wysokiej wydajności, analiza obrazu.
+- **Kluczowe Funkcje**: Ładowanie i zapisywanie obrazów, przetwarzanie obrazów, detekcja obiektów z wykorzystaniem templatów, tworzenie bounding boxów.
 
 ### Algorytm Sobela
 - **Opis**: Implementacja algorytmu wykrywania krawędzi Sobela, używana do przetwarzania obrazów.
 - **Użyte Technologie**: C++
-- **Kluczowe Funkcje**: Wykrywanie krawędzi, niestandardowe maski filtrów.
+- **Kluczowe Funkcje**: Wykrywanie krawędzi, niestandardowe maski filtrów, zapisywanie przetworzonych obrazów.
+
 
 ### Gra w Szachy
 - **Opis**: W pełni interaktywna cyfrowa gra w szachy stworzona przy użyciu PyQt5, oferująca możliwość dostosowania ustawień gry i zestawów figur.
