@@ -6,7 +6,7 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 
 ### Pentago
 - **Opis**: Cyfrowa wersja gry planszowej Pentago dla dwóch osób, zaprojektowana tak, aby zapewnić interaktywne doświadczenie z elementem gry AI.
-- **Użyte Technologie**: Python, PyQt5
+- **Użyte Technologie**: C++
 - **Kluczowe Funkcje**: Interaktywny interfejs użytkownika, przeciwnicy sterowani przez AI.
 
 ### Kevin
