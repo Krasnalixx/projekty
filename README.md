@@ -9,7 +9,7 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 - **Użyte Technologie**: C++
 - **Kluczowe Funkcje**: Prosty interfejs konsolowy, rozgrywka dla dwóch graczy.
 
-### [Kevin](https://github.com/Krasnalixx/projekty/blob/main/kevin/README.md)
+### [Analizator Zmian Obrazu](https://github.com/Krasnalixx/projekty/blob/main/kevin/README.md)
 - **Opis**: Projekt `Analizator Zmian Obrazu`, to narzędzie do analizy i identyfikacji różnic między dwoma obrazami. 
 - **Użyte Technologie**: Python, OpenCV, NumPy, Matplotlib
 - **Kluczowe Funkcje**: Wczytywanie obrazów, analiza różnic, eksport wyników do pliku PNG z przezroczystymi obszarami zmian.
