@@ -32,10 +32,11 @@ Aby zaprezentować efekty działania algorytmu Sobela, poniżej znajdują się p
 
 ### Oryginalne obrazy
 ![Oryginalny obraz 1](images/kot.bmp)
-![Oryginalny obraz 2](images/kot_sobel.bmp)
+![Przetworzony obraz 2](images/ryba.bmp)
 
 ### Obrazy po przetworzeniu
-![Przetworzony obraz 2](images/ryba.bmp)
+
+![Oryginalny obraz 2](images/kot_sobel.bmp)
 ![Przetworzony obraz 1](images/ryba_sobel.bmp)
 
 
