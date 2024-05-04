@@ -1,45 +1,44 @@
-# Portfolio Projects
+# Projekty Portfolio
 
-Welcome to my portfolio of software projects. This repository contains a collection of various projects showcasing my skills and interests in software development, computer vision, and game design.
+Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera różnorodne projekty demonstrujące moje umiejętności i zainteresowania w dziedzinie programowania, wizji komputerowej oraz projektowania gier.
 
-## Projects Overview
+## Przegląd Projektów
 
 ### Pentago
-- **Description**: A digital version of the two-player abstract strategy board game Pentago. This project is designed to provide an interactive experience with a focus on AI gameplay.
-- **Technologies Used**: Python, PyQt5
-- **Key Features**: Interactive GUI, AI opponents.
+- **Opis**: Cyfrowa wersja gry planszowej Pentago dla dwóch osób, zaprojektowana tak, aby zapewnić interaktywne doświadczenie z elementem gry AI.
+- **Użyte Technologie**: Python, PyQt5
+- **Kluczowe Funkcje**: Interaktywny interfejs użytkownika, przeciwnicy sterowani przez AI.
 
 ### Kevin
-- **Description**: An application designed for audio processing and real-time sound manipulation named Kevin.
-- **Technologies Used**: C++, Qt
-- **Key Features**: Real-time audio effects, recording, playback.
+- **Opis**: Aplikacja przeznaczona do przetwarzania dźwięku i manipulacji dźwiękiem w czasie rzeczywistym, nazwana Kevin.
+- **Użyte Technologie**: C++, Qt
+- **Kluczowe Funkcje**: Efekty dźwiękowe w czasie rzeczywistym, nagrywanie, odtwarzanie.
 
 ### CUDA Template Matching Chess
-- **Description**: Utilizes CUDA and template matching techniques to recognize chess pieces on a board from images.
-- **Technologies Used**: C++, CUDA
-- **Key Features**: High performance computing, image analysis.
+- **Opis**: Wykorzystuje techniki CUDA i dopasowywania szablonów do rozpoznawania figur szachowych na planszy na podstawie obrazów.
+- **Użyte Technologie**: C++, CUDA
+- **Kluczowe Funkcje**: Obliczenia wysokiej wydajności, analiza obrazu.
 
-### Sobel Algorithm
-- **Description**: An implementation of the Sobel edge detection algorithm used for image processing.
-- **Technologies Used**: C++
-- **Key Features**: Edge detection, custom filter masks.
+### Algorytm Sobela
+- **Opis**: Implementacja algorytmu wykrywania krawędzi Sobela, używana do przetwarzania obrazów.
+- **Użyte Technologie**: C++
+- **Kluczowe Funkcje**: Wykrywanie krawędzi, niestandardowe maski filtrów.
 
-### Chess Game
-- **Description**: A fully interactive digital chess game built with PyQt5, featuring customizable game settings and piece sets.
-- **Technologies Used**: Python, PyQt5
-- **Key Features**: Graphical user interface, game analysis tools.
+### Gra w Szachy
+- **Opis**: W pełni interaktywna cyfrowa gra w szachy stworzona przy użyciu PyQt5, oferująca możliwość dostosowania ustawień gry i zestawów figur.
+- **Użyte Technologie**: Python, PyQt5
+- **Kluczowe Funkcje**: Graficzny interfejs użytkownika, narzędzia do analizy gry.
 
-## Repository Structure
-Each project is contained in its own directory, complete with its own README for detailed information and setup instructions.
+## Struktura Repozytorium
+Każdy projekt znajduje się w swoim własnym katalogu, wraz ze swoim własnym plikiem README zawierającym szczegółowe informacje i instrukcje instalacji.
 
-## Getting Started
-To explore each project:
-1. Navigate to the project directory.
-2. Refer to the project-specific README for installation and running instructions.
+## Jak zacząć
+Aby zbadać każdy projekt:
+1. Przejdź do katalogu projektu.
+2. Zapoznaj się z plikiem README specyficznym dla danego projektu, aby uzyskać instrukcje instalacji i uruchomienia.
 
-## License
-All projects are open-source and available under the MIT License unless specified otherwise in the project directory.
+## Licencja
+Wszystkie projekty są dostępne na otwartej licencji i dostępne są na licencji MIT, chyba że w katalogu projektu określono inaczej.
 
-## Author
+## Autor
 Przemysław Piątkiewicz
-"""
