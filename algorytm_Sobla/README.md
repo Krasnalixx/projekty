@@ -30,11 +30,11 @@ g++ -o sobel SobelAlgorithm.cpp
 
 Aby zaprezentować efekty działania algorytmu Sobela, poniżej znajdują się przykładowe obrazy przed i po przetworzeniu:
 
-### Oryginalne obrazy
+#### Oryginalne obrazy
 ![Oryginalny obraz 1](images/kot.bmp)
 ![Przetworzony obraz 2](images/ryba.bmp)
 
-### Obrazy po przetworzeniu
+#### Obrazy po przetworzeniu
 
 ![Oryginalny obraz 2](images/kot_sobel.bmp)
 ![Przetworzony obraz 1](images/ryba_sobel.bmp)
