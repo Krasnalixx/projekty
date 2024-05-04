@@ -26,6 +26,21 @@ Projekt implementuje algorytm Sobel, który służy do wykrywania krawędzi w ob
 g++ -o sobel SobelAlgorithm.cpp
 ./sobel
 ```
+## Wyświetlanie przykładowych obrazów
+
+Aby zaprezentować efekty działania algorytmu Sobela, poniżej znajdują się przykładowe obrazy przed i po przetworzeniu:
+
+### Oryginalne obrazy
+![Oryginalny obraz 1](images/kot.bmp)
+![Oryginalny obraz 2](images/kot_sobel.bmp)
+
+### Obrazy po przetworzeniu
+![Przetworzony obraz 2](images/ryba.bmp)
+![Przetworzony obraz 1](images/ryba_sobel.bmp)
+
+
+W powyższych ścieżkach `path_to_images/` należy zastąpić odpowiednią ścieżką do folderu zawierającego obrazy.
+
 ## Autor 
 Przemysław Piątkiewicz
 
