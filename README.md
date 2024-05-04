@@ -9,24 +9,24 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 - **Użyte Technologie**: C++
 - **Kluczowe Funkcje**: Prosty interfejs konsolowy, rozgrywka dla dwóch graczy.
 
-### Kevin
+### [Kevin](https://github.com/Krasnalixx/projekty/blob/main/kevin/README.md)
 - **Opis**: Projekt `Analizator Zmian Obrazu`, to narzędzie do analizy i identyfikacji różnic między dwoma obrazami. 
 - **Użyte Technologie**: Python, OpenCV, NumPy, Matplotlib
 - **Kluczowe Funkcje**: Wczytywanie obrazów, analiza różnic, eksport wyników do pliku PNG z przezroczystymi obszarami zmian.
 
 
-### Wykrywanie Obiektów i Ich Segmentacja
+### [Wykrywanie Obiektów i Ich Segmentacja]
 - **Opis**: Program wykorzystujący technologię CUDA do wykrywania i segmentacji obiektów na obrazach, umożliwiający identyfikację i oznaczanie różnych obiektów, takich jak litery, symbole czy loga, przy użyciu bounding boxów.
 - **Użyte Technologie**: C++, CUDA
 - **Kluczowe Funkcje**: Ładowanie i zapisywanie obrazów, przetwarzanie obrazów, detekcja obiektów z wykorzystaniem templatów, tworzenie bounding boxów.
 
-### Algorytm Sobela
+### [Algorytm Sobela](https://github.com/Krasnalixx/projekty/blob/main/algorytm_Sobla/README.md)
 - **Opis**: Implementacja algorytmu wykrywania krawędzi Sobela, używana do przetwarzania obrazów.
 - **Użyte Technologie**: C++
 - **Kluczowe Funkcje**: Wykrywanie krawędzi, niestandardowe maski filtrów, zapisywanie przetworzonych obrazów.
 
 
-### Gra w Szachy
+### [Gra w Szachy](https://github.com/Krasnalixx/projekty/blob/main/chess/README.md)
 - **Opis**: W pełni interaktywna cyfrowa gra w szachy stworzona przy użyciu PyQt5, oferująca możliwość dostosowania ustawień gry i zestawów figur.
 - **Użyte Technologie**: Python, PyQt5
 - **Kluczowe Funkcje**: Graficzny interfejs użytkownika, narzędzia do analizy gry.
