@@ -4,7 +4,7 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 
 ## Przegląd Projektów
 
-### Pentago(https://github.com/Krasnalixx/projekty/blob/main/pentago/README.md)
+### [Pentago](https://github.com/Krasnalixx/projekty/blob/main/pentago/README.md)
 - **Opis**: Cyfrowa wersja gry planszowej Pentago dla dwóch osób, zaprojektowana jako gra konsolowa, która pozwala na interakcje bezpośrednio w terminalu.
 - **Użyte Technologie**: C++
 - **Kluczowe Funkcje**: Prosty interfejs konsolowy, rozgrywka dla dwóch graczy.
