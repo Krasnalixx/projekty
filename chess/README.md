@@ -10,6 +10,10 @@ Welcome to my Chess Game, a fully interactive digital chess experience built wit
 
 3. **resources_rc.py**: This module handles the graphical resources, storing representations of the chess pieces used in the game's GUI.
 
+## Resource Management
+
+This project utilizes a `.rc` file (`resources_rc.py`) to manage the graphical assets, such as images of the chess pieces. These resources are compiled from a Qt Resource Collection file (.qrc), which allows the application to efficiently load and access these assets at runtime. This method ensures that all visual elements are neatly organized and easy to update or modify, enhancing the maintainability of the game's user interface.
+
 ## Dependencies
 
 To run this game, you will need Python and PyQt5. Here's how you can install PyQt5 if you haven't done so yet:
