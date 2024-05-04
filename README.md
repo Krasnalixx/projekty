@@ -15,7 +15,7 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 - **Kluczowe Funkcje**: Wczytywanie obrazów, analiza różnic, eksport wyników do pliku PNG z przezroczystymi obszarami zmian.
 
 
-### [Wykrywanie Obiektów i Ich Segmentacja]
+### [Wykrywanie Obiektów i Ich Segmentacja](https://github.com/Krasnalixx/projekty/blob/main/cuda-template-matching/README.md)
 - **Opis**: Program wykorzystujący technologię CUDA do wykrywania i segmentacji obiektów na obrazach, umożliwiający identyfikację i oznaczanie różnych obiektów, takich jak litery, symbole czy loga, przy użyciu bounding boxów.
 - **Użyte Technologie**: C++, CUDA
 - **Kluczowe Funkcje**: Ładowanie i zapisywanie obrazów, przetwarzanie obrazów, detekcja obiektów z wykorzystaniem templatów, tworzenie bounding boxów.
