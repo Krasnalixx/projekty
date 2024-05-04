@@ -40,7 +40,6 @@ Aby zaprezentować efekty działania algorytmu Sobela, poniżej znajdują się p
 ![Przetworzony obraz 1](images/ryba_sobel.bmp)
 
 
-W powyższych ścieżkach `path_to_images/` należy zastąpić odpowiednią ścieżką do folderu zawierającego obrazy.
 
 ## Autor 
 Przemysław Piątkiewicz
