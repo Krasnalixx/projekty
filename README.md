@@ -4,13 +4,13 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 
 ## Przegląd Projektów
 
-### Pentago
+### Pentago(https://github.com/Krasnalixx/projekty/blob/main/pentago/README.md)
 - **Opis**: Cyfrowa wersja gry planszowej Pentago dla dwóch osób, zaprojektowana jako gra konsolowa, która pozwala na interakcje bezpośrednio w terminalu.
 - **Użyte Technologie**: C++
 - **Kluczowe Funkcje**: Prosty interfejs konsolowy, rozgrywka dla dwóch graczy.
 
 ### Kevin
-- **Opis**: Projekt `Analizator Zmian Obrazu`, znanym także jako Kevin, to narzędzie do analizy i identyfikacji różnic między dwoma obrazami. 
+- **Opis**: Projekt `Analizator Zmian Obrazu`, to narzędzie do analizy i identyfikacji różnic między dwoma obrazami. 
 - **Użyte Technologie**: Python, OpenCV, NumPy, Matplotlib
 - **Kluczowe Funkcje**: Wczytywanie obrazów, analiza różnic, eksport wyników do pliku PNG z przezroczystymi obszarami zmian.
 
