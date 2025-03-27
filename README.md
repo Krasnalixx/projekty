@@ -31,6 +31,13 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 - **Użyte Technologie**: Python, PyQt5
 - **Kluczowe Funkcje**: Graficzny interfejs użytkownika, narzędzia do analizy gry.
 
+
+### [PDF Merger](https://github.com/Krasnalixx/projekty/blob/main/PDFmerger/README.md)
+- **Opis**:Prosta aplikacja desktopowa napisana w Pythonie, służąca do łączenia wielu plików PDF w jeden.
+- **Użyte Technologie**: Python, Tkinter (GUI), PyPDF2
+- **Kluczowe Funkcje**: Wybór i dodawanie wielu plików PDF,możliwość zmiany kolejności plików, usuwanie niechcianych pozycji z listy, zapisywanie scalonego PDF do wybranego folderu
+
+
 ## Struktura Repozytorium
 Każdy projekt znajduje się w swoim własnym katalogu, wraz ze swoim własnym plikiem README zawierającym szczegółowe informacje i instrukcje instalacji.
 
