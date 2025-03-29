@@ -1,0 +1,9 @@
+opencv-python
+numpy
+glob
+Pillow
+open3d
+hdbscan
+scikit-learn
+time
+PyQt5

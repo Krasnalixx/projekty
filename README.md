@@ -14,7 +14,6 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 - **Użyte Technologie**: Python, OpenCV, NumPy, Matplotlib
 - **Kluczowe Funkcje**: Wczytywanie obrazów, analiza różnic, eksport wyników do pliku PNG z przezroczystymi obszarami zmian.
 
-
 ### [Wykrywanie Obiektów i Ich Segmentacja](https://github.com/Krasnalixx/projekty/blob/main/cuda-template-matching/README.md)
 - **Opis**: Program wykorzystujący technologię CUDA do wykrywania i segmentacji obiektów na obrazach, umożliwiający identyfikację i oznaczanie różnych obiektów, takich jak litery, symbole czy loga, przy użyciu bounding boxów.
 - **Użyte Technologie**: C++, CUDA
@@ -25,18 +24,15 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 - **Użyte Technologie**: C++
 - **Kluczowe Funkcje**: Wykrywanie krawędzi, niestandardowe maski filtrów, zapisywanie przetworzonych obrazów.
 
-
 ### [Gra w Szachy](https://github.com/Krasnalixx/projekty/blob/main/chess/README.md)
 - **Opis**: W pełni interaktywna cyfrowa gra w szachy stworzona przy użyciu PyQt5, oferująca możliwość dostosowania ustawień gry i zestawów figur.
 - **Użyte Technologie**: Python, PyQt5
 - **Kluczowe Funkcje**: Graficzny interfejs użytkownika, narzędzia do analizy gry.
 
-
 ### [PDF Merger](https://github.com/Krasnalixx/projekty/blob/main/PDFmerger/README.md)
-- **Opis**:Prosta aplikacja desktopowa napisana w Pythonie, służąca do łączenia wielu plików PDF w jeden.
+- **Opis**: Prosta aplikacja desktopowa napisana w Pythonie, służąca do łączenia wielu plików PDF w jeden.
 - **Użyte Technologie**: Python, Tkinter (GUI), PyPDF2
-- **Kluczowe Funkcje**: Wybór i dodawanie wielu plików PDF,możliwość zmiany kolejności plików, usuwanie niechcianych pozycji z listy, zapisywanie scalonego PDF do wybranego folderu
-
+- **Kluczowe Funkcje**: Wybór i dodawanie wielu plików PDF, możliwość zmiany kolejności plików, usuwanie niechcianych pozycji z listy, zapisywanie scalonego PDF do wybranego folderu
 
 ## Struktura Repozytorium
 Każdy projekt znajduje się w swoim własnym katalogu, wraz ze swoim własnym plikiem README zawierającym szczegółowe informacje i instrukcje instalacji.
