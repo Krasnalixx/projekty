@@ -121,7 +121,7 @@ Poniżej przedstawiono interfejs graficzny (GUI) aplikacji SEK:
 Projekt inżynierski wykonany przez:  
 **Przemysław Piątkiewicz**  
 Politechnika Gdańska, Wydział Elektroniki, Telekomunikacji i Informatyki  
-Rok akademicki 2023/2024
+Rok akademicki 2024/2025
 
 ## 📄 Licencja
 
