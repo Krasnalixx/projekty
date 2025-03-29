@@ -34,6 +34,12 @@ Witaj w moim portfolio projektów programistycznych. Repozytorium to zawiera ró
 - **Użyte Technologie**: Python, Tkinter (GUI), PyPDF2
 - **Kluczowe Funkcje**: Wybór i dodawanie wielu plików PDF, możliwość zmiany kolejności plików, usuwanie niechcianych pozycji z listy, zapisywanie scalonego PDF do wybranego folderu
 
+### [System Rekonstrukcji 3D](https://github.com/Krasnalixx/projekty/blob/main/3D_reconstruction/README.md)
+- **Opis**: Aplikacja desktopowa do rekonstrukcji sceny 3D z wykorzystaniem widzenia stereoskopowego. Umożliwia kalibrację kamer, generowanie chmur punktów, analizę figur geometrycznych oraz wizualizację wyników w przestrzeni 3D.
+- **Użyte Technologie**: Python, OpenCV, PyQt5, NumPy, HDBSCAN, Scikit-Learn
+- **Kluczowe Funkcje**: Kalibracja mono i stereo, mapa dysparycji, triangulacja, segmentacja obiektów 3D, wykrywanie kształtów (sfera, walec, stożek, prostopadłościan), interaktywna chmura punktów
+
+
 ## Struktura Repozytorium
 Każdy projekt znajduje się w swoim własnym katalogu, wraz ze swoim własnym plikiem README zawierającym szczegółowe informacje i instrukcje instalacji.
 
