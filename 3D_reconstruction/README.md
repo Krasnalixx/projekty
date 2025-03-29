@@ -118,7 +118,7 @@ Poniżej przedstawiono interfejs graficzny (GUI) aplikacji SEK:
 ![GUI z piłką](images/SEK_view2.png)
 
 ## 🧠 Autor
-Projekt inżynierski wykonany przez:
+Projekt inżynierski wykonany przez:  
 **Przemysław Piątkiewicz**  
 Politechnika Gdańska, Wydział Elektroniki, Telekomunikacji i Informatyki  
 Rok akademicki 2023/2024
